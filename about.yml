@@ -1,0 +1,7 @@
+author: Wade Womersley and EBC developers
+summary: Automatically sets 100% done on Resolved or Closed
+homepage: git://github.com/ebc/redmine-auto-percent.git
+plugin: git://github.com/ebc/redmine-auto-percent.git
+license: MIT
+version: 0.1.0
+rails_version: 1.0+
